@@ -1,0 +1,6 @@
+[server]
+# برای سرو شدن فونت بی‌نازنین از پوشه‌ی static کنار app.py
+enableStaticServing = true
+
+[client]
+toolbarMode = "minimal"
